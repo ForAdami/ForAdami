@@ -8,10 +8,12 @@ Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo 
 ## Sobre Mim
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+
 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Farias Brito.
+
 🌱 Aprendendo mais sobre Python, Java, Desenvolvimento Full Stack, Segurança Cibernética e Infraestrutura de Redes 5G.
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=ForAdami&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![ForAdami](https://github-readme-stats.vercel.app/api/top-langs/?username=ForAdami&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![card](https://github-readme-stats.vercel.app/api?username=ForAdami&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
