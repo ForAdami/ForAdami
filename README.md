@@ -19,7 +19,8 @@ Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo 
 ## Minhas Skills
 
 **Aplicações e Conhecimentos:**
-(https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white)
+
+[![CISCO].(https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
