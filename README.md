@@ -13,12 +13,13 @@ Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo 
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Minhas Skills
 
 **Aplicações e Conhecimentos:**
-https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white
+<img src="BadgeURLAqui" />https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white
 
 https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
