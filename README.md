@@ -1,4 +1,4 @@
-###💜 Olá, meu nome é Dalila Adami!
+## Olá, meu nome é Dalila Adami!💜
 Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo soluções inovadoras.
 
 🔭 Atualmente, estou desenvolvendo projetos pessoais que envolvem redes de computadores e segurança cibernética. Além disso, estou sempre à procura de novas oportunidades para aprender e crescer profissionalmente na área de TI.
