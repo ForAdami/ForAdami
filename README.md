@@ -15,10 +15,6 @@ Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo 
 
 🌱 Aprendendo mais sobre Python, Java, Desenvolvimento Full Stack, Segurança Cibernética.
 
-[![ForAdami](https://github-readme-stats.vercel.app/api/top-langs/?username=ForAdami&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-[![card](https://github-readme-stats.vercel.app/api?username=ForAdami&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Minhas Skills
 
