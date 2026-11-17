@@ -11,7 +11,7 @@ Faço parte do mundo da tecnologia, explorando novas linguagens e desenvolvendo 
 
 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Farias Brito.
 
-🎓 Cursando Técnico em Ads e Administração
+🎓 Sou Técnica em Ads, Administração e ADS
 
 🌱 Aprendendo mais sobre Python, Java, Desenvolvimento Full Stack, Segurança Cibernética.
 
